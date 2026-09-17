@@ -1,0 +1,10 @@
+[2026-09-16 11:06:34] [WARNING] Could not convert Alice Johnson.docx to PDF: Open.Close
+[2026-09-16 11:06:41] [ERROR] Failed to generate certificate: Row 3 ('Bob Smith'): [Errno 13] Permission denied: 'C:\\Users\\thriv\\Desktop\\agent1\\output_certificates\\Bob Smith.docx'
+[2026-09-16 11:06:42] [WARNING] Failures (1):
+[2026-09-16 11:06:42] [WARNING]   - Row 3 (Bob Smith): [Errno 13] Permission denied: 'C:\\Users\\thriv\\Desktop\\agent1\\output_certificates\\Bob Smith.docx'
+[2026-09-16 11:06:47] [WARNING] Could not convert Bob Smith.docx to PDF: Open.Close
+[2026-09-16 11:08:13] [WARNING] Could not convert Charlie Brown.docx to PDF: Open.Close
+[2026-09-16 13:02:10] [WARNING] Could not convert Diana Prince.docx to PDF: Open.Close
+[2026-09-16 13:02:40] [WARNING] Could not convert Emily Davis.docx to PDF: (-2146959355, 'Server execution failed', None, None)
+[2026-09-16 13:03:12] [WARNING] Could not convert Emily Davis.docx to PDF: (-2146959355, 'Server execution failed', None, None)
+[2026-09-16 13:03:43] [WARNING] Could not convert Dr. Victor Frankenstein.docx to PDF: (-2146959355, 'Server execution failed', None, None)

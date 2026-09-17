@@ -1,0 +1,262 @@
+[2026-09-16 11:03:17] [INFO] ============================================================
+[2026-09-16 11:03:17] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:03:17] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:03:17] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:03:17] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:03:17] [INFO] Overwrite:       False
+[2026-09-16 11:03:17] [INFO] Export PDF:      False
+[2026-09-16 11:03:17] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:03:17] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:03:17] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:03:17] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:03:17] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:03:17] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:03:17] [INFO] [3/13] Successfully generated: Charlie Brown.docx
+[2026-09-16 11:03:17] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:03:17] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:03:17] [INFO] [6/13] Successfully generated: Emily Davis (1).docx
+[2026-09-16 11:03:17] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:03:17] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:03:17] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:03:17] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:03:17] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:03:17] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:03:17] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:03:17] [INFO] ============================================================
+[2026-09-16 11:03:17] [INFO] BATCH RUN COMPLETE in 0.50 seconds
+[2026-09-16 11:03:17] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 11:03:17] [INFO] ============================================================
+[2026-09-16 11:03:47] [INFO] ============================================================
+[2026-09-16 11:03:47] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:03:47] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.csv
+[2026-09-16 11:03:47] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:03:47] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:03:47] [INFO] Overwrite:       True
+[2026-09-16 11:03:47] [INFO] Export PDF:      False
+[2026-09-16 11:03:47] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:03:47] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:03:47] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:03:47] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:03:47] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:03:48] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:03:48] [INFO] [3/13] Successfully generated: Charlie Brown.docx
+[2026-09-16 11:03:48] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:03:48] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:03:48] [INFO] [6/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:03:48] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:03:48] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:03:48] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:03:48] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:03:48] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:03:48] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:03:48] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:03:48] [INFO] ============================================================
+[2026-09-16 11:03:48] [INFO] BATCH RUN COMPLETE in 0.44 seconds
+[2026-09-16 11:03:48] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 11:03:48] [INFO] ============================================================
+[2026-09-16 11:04:51] [INFO] ============================================================
+[2026-09-16 11:04:51] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:04:51] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:04:51] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:04:51] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:04:51] [INFO] Overwrite:       True
+[2026-09-16 11:04:51] [INFO] Export PDF:      False
+[2026-09-16 11:04:51] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:04:51] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:04:51] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:04:51] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:04:51] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:04:51] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:04:51] [INFO] [3/13] Successfully generated: Charlie Brown.docx
+[2026-09-16 11:04:51] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:04:51] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:04:51] [INFO] [6/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:04:51] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:04:51] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:04:51] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:04:51] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:04:51] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:04:52] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:04:52] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:04:52] [INFO] ============================================================
+[2026-09-16 11:04:52] [INFO] BATCH RUN COMPLETE in 0.49 seconds
+[2026-09-16 11:04:52] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 11:04:52] [INFO] ============================================================
+[2026-09-16 11:05:03] [INFO] ============================================================
+[2026-09-16 11:05:03] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:05:03] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:05:03] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:05:03] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:05:03] [INFO] Overwrite:       True
+[2026-09-16 11:05:03] [INFO] Export PDF:      True
+[2026-09-16 11:05:03] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:05:03] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:05:03] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:05:03] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:06:34] [WARNING] Could not convert Alice Johnson.docx to PDF: Open.Close
+[2026-09-16 11:06:34] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:06:41] [INFO] ============================================================
+[2026-09-16 11:06:41] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:06:41] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:06:41] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:06:41] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:06:41] [INFO] Overwrite:       True
+[2026-09-16 11:06:41] [INFO] Export PDF:      False
+[2026-09-16 11:06:41] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:06:41] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:06:41] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:06:41] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:06:41] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:06:41] [ERROR] Failed to generate certificate: Row 3 ('Bob Smith'): [Errno 13] Permission denied: 'C:\\Users\\thriv\\Desktop\\agent1\\output_certificates\\Bob Smith.docx'
+[2026-09-16 11:06:41] [INFO] [3/13] Successfully generated: Charlie Brown.docx
+[2026-09-16 11:06:41] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:06:41] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:06:41] [INFO] [6/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:06:41] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:06:42] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:06:42] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:06:42] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:06:42] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:06:42] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:06:42] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:06:42] [INFO] ============================================================
+[2026-09-16 11:06:42] [INFO] BATCH RUN COMPLETE in 0.47 seconds
+[2026-09-16 11:06:42] [INFO] Total Rows: 13 | Success: 12 | Failed: 1
+[2026-09-16 11:06:42] [WARNING] Failures (1):
+[2026-09-16 11:06:42] [WARNING]   - Row 3 (Bob Smith): [Errno 13] Permission denied: 'C:\\Users\\thriv\\Desktop\\agent1\\output_certificates\\Bob Smith.docx'
+[2026-09-16 11:06:42] [INFO] ============================================================
+[2026-09-16 11:06:47] [WARNING] Could not convert Bob Smith.docx to PDF: Open.Close
+[2026-09-16 11:06:47] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:06:57] [INFO] ============================================================
+[2026-09-16 11:06:57] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:06:57] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:06:57] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:06:57] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:06:57] [INFO] Overwrite:       False
+[2026-09-16 11:06:57] [INFO] Export PDF:      False
+[2026-09-16 11:06:57] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:06:57] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:06:57] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:06:57] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:06:57] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:06:57] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:06:57] [INFO] [3/13] Successfully generated: Charlie Brown (1).docx
+[2026-09-16 11:06:57] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:06:57] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:06:57] [INFO] [6/13] Successfully generated: Emily Davis (1).docx
+[2026-09-16 11:06:57] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:06:57] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:06:57] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:06:57] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:06:57] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:06:57] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:06:57] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:06:57] [INFO] ============================================================
+[2026-09-16 11:06:57] [INFO] BATCH RUN COMPLETE in 0.49 seconds
+[2026-09-16 11:06:57] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 11:06:57] [INFO] ============================================================
+[2026-09-16 11:07:55] [INFO] ============================================================
+[2026-09-16 11:07:55] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:07:55] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:07:55] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:07:55] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:07:55] [INFO] Overwrite:       False
+[2026-09-16 11:07:55] [INFO] Export PDF:      False
+[2026-09-16 11:07:55] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:07:55] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:07:55] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:07:55] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:07:55] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:07:55] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:07:55] [INFO] [3/13] Successfully generated: Charlie Brown (1).docx
+[2026-09-16 11:07:55] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:07:55] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:07:55] [INFO] [6/13] Successfully generated: Emily Davis (1).docx
+[2026-09-16 11:07:55] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:07:55] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:07:55] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:07:55] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:07:55] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:07:55] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:07:55] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:07:55] [INFO] ============================================================
+[2026-09-16 11:07:55] [INFO] BATCH RUN COMPLETE in 0.53 seconds
+[2026-09-16 11:07:55] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 11:07:55] [INFO] ============================================================
+[2026-09-16 11:08:07] [INFO] ============================================================
+[2026-09-16 11:08:07] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 11:08:07] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 11:08:07] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 11:08:07] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 11:08:07] [INFO] Overwrite:       False
+[2026-09-16 11:08:07] [INFO] Export PDF:      False
+[2026-09-16 11:08:07] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 11:08:07] [INFO] Total recipient records loaded: 13
+[2026-09-16 11:08:07] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:08:07] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 11:08:08] [INFO] [1/13] Successfully generated: Alice Johnson.docx
+[2026-09-16 11:08:08] [INFO] [2/13] Successfully generated: Bob Smith.docx
+[2026-09-16 11:08:08] [INFO] [3/13] Successfully generated: Charlie Brown (1).docx
+[2026-09-16 11:08:08] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 11:08:08] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 11:08:08] [INFO] [6/13] Successfully generated: Emily Davis (1).docx
+[2026-09-16 11:08:08] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 11:08:08] [INFO] [8/13] Successfully generated: Sarah Connor.docx
+[2026-09-16 11:08:08] [INFO] [9/13] Successfully generated: Neo The One.docx
+[2026-09-16 11:08:08] [INFO] [10/13] Successfully generated: Alex Ace Morgan.docx
+[2026-09-16 11:08:08] [INFO] [11/13] Successfully generated: Morgan Taylor.docx
+[2026-09-16 11:08:08] [INFO] [12/13] Successfully generated: José María González.docx
+[2026-09-16 11:08:08] [INFO] [13/13] Successfully generated: Sravya Kondapalli.docx
+[2026-09-16 11:08:08] [INFO] ============================================================
+[2026-09-16 11:08:08] [INFO] BATCH RUN COMPLETE in 0.50 seconds
+[2026-09-16 11:08:08] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 11:08:08] [INFO] ============================================================
+[2026-09-16 11:08:13] [WARNING] Could not convert Charlie Brown.docx to PDF: Open.Close
+[2026-09-16 11:08:13] [INFO] [3/13] Successfully generated: Charlie Brown.docx
+[2026-09-16 13:02:10] [WARNING] Could not convert Diana Prince.docx to PDF: Open.Close
+[2026-09-16 13:02:10] [INFO] [4/13] Successfully generated: Diana Prince.docx
+[2026-09-16 13:02:40] [WARNING] Could not convert Emily Davis.docx to PDF: (-2146959355, 'Server execution failed', None, None)
+[2026-09-16 13:02:40] [INFO] [5/13] Successfully generated: Emily Davis.docx
+[2026-09-16 13:03:12] [WARNING] Could not convert Emily Davis.docx to PDF: (-2146959355, 'Server execution failed', None, None)
+[2026-09-16 13:03:12] [INFO] [6/13] Successfully generated: Emily Davis.docx
+[2026-09-16 13:03:43] [WARNING] Could not convert Dr. Victor Frankenstein.docx to PDF: (-2146959355, 'Server execution failed', None, None)
+[2026-09-16 13:03:43] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein.docx
+[2026-09-16 13:19:28] [INFO] ============================================================
+[2026-09-16 13:19:28] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 13:19:28] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 13:19:28] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 13:19:28] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 13:19:28] [INFO] Overwrite:       True
+[2026-09-16 13:19:28] [INFO] Export PDF:      True
+[2026-09-16 13:19:28] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 13:19:28] [INFO] Total recipient records loaded: 13
+[2026-09-16 13:19:28] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 13:19:28] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 13:28:22] [INFO] ============================================================
+[2026-09-16 13:28:22] [INFO] CERTIFICATE GENERATION AGENT STARTED
+[2026-09-16 13:28:22] [INFO] Recipients file: C:\Users\thriv\Desktop\agent1\recipients.xlsx
+[2026-09-16 13:28:22] [INFO] Template file:   C:\Users\thriv\Desktop\agent1\templates\certificate_template.docx
+[2026-09-16 13:28:22] [INFO] Output folder:   C:\Users\thriv\Desktop\agent1\output_certificates
+[2026-09-16 13:28:22] [INFO] Overwrite:       False
+[2026-09-16 13:28:22] [INFO] Export PDF:      False
+[2026-09-16 13:28:22] [INFO] Microsoft Word status: INSTALLED (C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE)
+[2026-09-16 13:28:22] [INFO] Total recipient records loaded: 13
+[2026-09-16 13:28:22] [INFO] Detected template placeholders: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 13:28:22] [INFO] Available data columns: ['Certificate_ID', 'Course', 'Date', 'Grade', 'Name', 'Organization']
+[2026-09-16 13:28:22] [INFO] [1/13] Successfully generated: Alice Johnson (1).docx
+[2026-09-16 13:28:22] [INFO] [2/13] Successfully generated: Bob Smith (1).docx
+[2026-09-16 13:28:22] [INFO] [3/13] Successfully generated: Charlie Brown.docx
+[2026-09-16 13:28:22] [INFO] [4/13] Successfully generated: Diana Prince (1).docx
+[2026-09-16 13:28:22] [INFO] [5/13] Successfully generated: Emily Davis (2).docx
+[2026-09-16 13:28:22] [INFO] [6/13] Successfully generated: Emily Davis (3).docx
+[2026-09-16 13:28:22] [INFO] [7/13] Successfully generated: Dr. Victor Frankenstein (1).docx
+[2026-09-16 13:28:22] [INFO] [8/13] Successfully generated: Sarah Connor (1).docx
+[2026-09-16 13:28:22] [INFO] [9/13] Successfully generated: Neo The One (1).docx
+[2026-09-16 13:28:22] [INFO] [10/13] Successfully generated: Alex Ace Morgan (1).docx
+[2026-09-16 13:28:23] [INFO] [11/13] Successfully generated: Morgan Taylor (1).docx
+[2026-09-16 13:28:23] [INFO] [12/13] Successfully generated: José María González (1).docx
+[2026-09-16 13:28:23] [INFO] [13/13] Successfully generated: Sravya Kondapalli (1).docx
+[2026-09-16 13:28:23] [INFO] ============================================================
+[2026-09-16 13:28:23] [INFO] BATCH RUN COMPLETE in 0.53 seconds
+[2026-09-16 13:28:23] [INFO] Total Rows: 13 | Success: 13 | Failed: 0
+[2026-09-16 13:28:23] [INFO] ============================================================
