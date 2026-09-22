@@ -4,6 +4,7 @@ from docx import Document
 import io
 import zipfile
 import os
+import re
 
 st.title("📧 Automated Certificate Generator")
 st.write("Upload your recipient data file to generate and download your certificates instantly.")
@@ -51,7 +52,11 @@ if uploaded_file is not None:
                 doc.save(doc_io)
                 doc_io.seek(0)
                 
-                file_name = f"Certificate_{row.get('Name', index)}.docx"
+                # Clean name to remove invalid Windows characters (like /, :, *, ?, <, >, |)
+                raw_name = str(row.get('Name', f"Recipient_{index}"))
+                safe_name = re.sub(r'[\\/*?:"<>|]', "", raw_name)
+                
+                file_name = f"Certificate_{safe_name}.docx"
                 zip_file.writestr(file_name, doc_io.read())
         
         zip_buffer.seek(0)
