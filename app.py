@@ -3,28 +3,30 @@ import pandas as pd
 from docx import Document
 import io
 import zipfile
-import os
+import glob
 
 st.title("📧 Automated Certificate Generator")
 st.write("Upload your recipient data file to generate and download your certificates instantly.")
 
-# Only upload the recipient file now
+# Only upload the recipient file
 uploaded_file = st.file_uploader("Upload recipients file (CSV or Excel)", type=["csv", "xlsx"])
 
-# Path to the template in your repository
-template_path = "certificate_template.docx"
+# Automatically find any .docx template file in the repository
+template_files = glob.glob("*.docx")
 
 if uploaded_file is not None:
-    if not os.path.exists(template_path):
-        st.error(f"Error: '{template_path}' was not found in your GitHub repository.")
+    if not template_files:
+        st.error("Error: No Word (.docx) template file was found in your GitHub repository.")
     else:
+        template_path = template_files[0]  # Uses whichever .docx is present
+        
         # Read recipient file
         if uploaded_file.name.endswith('.csv'):
             df = pd.read_csv(uploaded_file)
         else:
             df = pd.read_excel(uploaded_file)
         
-        # Generate certificates in-memory using the repository's template
+        # Generate certificates in-memory
         zip_buffer = io.BytesIO()
         
         with zipfile.ZipFile(zip_buffer, "w") as zip_file:
