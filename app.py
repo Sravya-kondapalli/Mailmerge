@@ -5,21 +5,18 @@ import io
 import zipfile
 
 st.title("📧 Automated Mail Merge & Certificate Generator")
-st.write("Upload your recipient data and certificate template to generate personalized certificates instantly.")
+st.write("Upload your recipient data and certificate template to download your generated certificates instantly.")
 
 # File uploaders
 uploaded_file = st.file_uploader("Upload recipients file (CSV or Excel)", type=["csv", "xlsx"])
 template_file = st.file_uploader("Upload Word Template (.docx)", type=["docx"])
 
 if uploaded_file is not None and template_file is not None:
-    # Read recipient file
+    # Read recipient file silently in the background
     if uploaded_file.name.endswith('.csv'):
         df = pd.read_csv(uploaded_file)
     else:
         df = pd.read_excel(uploaded_file)
-    
-    st.write("### Preview of Recipient Data:")
-    st.dataframe(df)
     
     # Generate certificates in-memory
     zip_buffer = io.BytesIO()
@@ -54,9 +51,9 @@ if uploaded_file is not None and template_file is not None:
     
     zip_buffer.seek(0)
     
-    st.success("Certificates generated successfully!")
+    st.success("Certificates are ready!")
     
-    # Direct download button
+    # Direct download button for certificates
     st.download_button(
         label="Download All Certificates (ZIP)",
         data=zip_buffer,
