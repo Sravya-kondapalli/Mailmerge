@@ -56,13 +56,10 @@ if uploaded_file is not None and template_file is not None:
     
     st.success("Certificates generated successfully!")
     
-    # Direct download button that stays stable
+    # Direct download button
     st.download_button(
         label="Download All Certificates (ZIP)",
         data=zip_buffer,
         file_name="Generated_Certificates.zip",
         mime="application/zip"
     )
-            file_name="Generated_Certificates.zip",
-            mime="application/zip"
-        )
